@@ -1,4 +1,4 @@
-# Project 1: Stellar Cart - An E-commerce Frontend Application
+ Stellar Cart - An E-commerce Frontend Application
 
 ## 🚀 Project Overview
 
